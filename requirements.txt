@@ -11,3 +11,4 @@ groq
 gradio
 pytest
 httpx
+langchain-huggingface
