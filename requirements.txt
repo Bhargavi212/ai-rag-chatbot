@@ -12,3 +12,4 @@ gradio
 pytest
 httpx
 langchain-huggingface
+langchain-groq
